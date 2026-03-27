@@ -50,6 +50,6 @@ NOTE: This is specifically for the standalone version of the Wio chip with the p
 
 Credits:
 
-Credit to GitHub issue #6478 and user “puflet” for the origional solution on the listed issue post, and the correct pin mapping suggestions!
+Credit to GitHub issue #6478 and user “puflet” for the origional solution on the listed issue post, and the correct pin mapping suggestions! (https://github.com/meshtastic/firmware/issues/6478)
 
 Credit to GitHub user “MParker2004” for compiling and testing the custom firmware with the listed hardware.
